@@ -6,3 +6,5 @@
 Object 클래스의 필요성
 
 Wrapper 클래스와 Auto Boxing/UnBoxing
+
+Generic 이란?
